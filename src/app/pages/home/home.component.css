@@ -1,0 +1,12 @@
+.home__container {
+  width: 90%;
+  margin: auto;
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.home__container > app-card {
+  display: flex;
+  justify-content: center;
+}
